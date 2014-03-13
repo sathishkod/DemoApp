@@ -16,3 +16,4 @@ public class MyBroadcastReceiverUpdate extends BroadcastReceiver {
 	}
 
 }
+//test
